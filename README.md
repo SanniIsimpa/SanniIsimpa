@@ -41,7 +41,7 @@ I approach every project as a full-lifecycle problem.
    * *The Solution:* I engineered a lightweight computer vision pipeline that uses **YOLOv8** and **ByteTrack** to turn standard video feeds into actionable traffic intelligence. By optimizing the system for edge deployment, I created a scalable tool that classifies density and tracks vehicle flow in real-time, helping bridge the gap between raw footage and informed urban decision-making.
    
 
-[Traffic Density Demo](https://github.com/SanniIsimpa/Traffic-Density-Estimator/blob/main/demo.gif)
+[Traffic Density Demo](https://github.com/SanniIsimpa/Traffic-Density-Estimator/blob/main/Traffic%20Density%20Estimator.gif)
 ---
 
 ### 📈 GitHub Stats
