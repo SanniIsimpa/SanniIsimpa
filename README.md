@@ -4,6 +4,14 @@ I am a **Software Engineer** dedicated to **Computer Vision** and **Deep Learnin
 
 I believe that engineering is the art of balancing complexity with stability—creating AI that works not just in the lab, but in the environments where it's needed most.
 
+### 🛠 Technical Toolkit
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-006400?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ### 🛠 Technical Competencies
@@ -27,13 +35,13 @@ I approach every project as a full-lifecycle problem.
 
 1. **[Presence Monitor](https://github.com/SanniIsimpa/presence-monitor):** * *The Problem:* Reducing false-positive OS locks.
    * *The Solution:* Implemented a temporal debouncing algorithm to ensure stability against transient visual noise.
+
+2. **[Traffic Density Estimator](https://github.com/SanniIsimpa/Traffic-Density-Estimator):**
+   * *The Problem:* Urban congestion often outpaces our ability to monitor it effectively, leaving city planners and commuters with limited real-time data.
+   * *The Solution:* I engineered a lightweight computer vision pipeline that uses **YOLOv8** and **ByteTrack** to turn standard video feeds into actionable traffic intelligence. By optimizing the system for edge deployment, I created a scalable tool that classifies density and tracks vehicle flow in real-time, helping bridge the gap between raw footage and informed urban decision-making.
    
-2. **[Safety Gear Detector](https://github.com/SanniIsimpa/safety-gear-detector):** * *The Problem:* Industrial safety compliance.
-   * *The Solution:* Trained a custom YOLO model combined with **DeepSORT** for multi-object identity tracking.
 
-3. **[Focus Analytics](https://github.com/SanniIsimpa/focus-analytics-cv):** * *The Problem:* Quantifying fatigue.
-   * *The Solution:* Used **MediaPipe** geometric aspect ratios to turn raw facial data into real-time focus metrics.
-
+[Traffic Density Demo](https://github.com/SanniIsimpa/Traffic-Density-Estimator/blob/main/demo.gif)
 ---
 
 ### 📈 GitHub Stats
@@ -42,8 +50,8 @@ I approach every project as a full-lifecycle problem.
 ---
 
 ### 📬 Connect With Me
-* **LinkedIn:** [Insert Link]
-* **Email:** [Insert Professional Email]
+* **LinkedIn:** [https://www.linkedin.com/in/godwin-sanni-20b653267/]
+* **Email:** [godwinsanni32@gmail.com]
 * **Location:** Lokoja, Kogi, Nigeria
 
 *“I don’t just build models; I build solutions that interact with the world.”*
