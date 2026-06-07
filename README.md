@@ -35,11 +35,13 @@ I approach every project as a full-lifecycle problem.
 
 1. **[Presence Monitor](https://github.com/SanniIsimpa/presence-monitor):** * *The Problem:* Reducing false-positive OS locks.
    * *The Solution:* Implemented a temporal debouncing algorithm to ensure stability against transient visual noise.
+ 
+  [Presence Monitor Demo](https://github.com/SanniIsimpa/PresenceMonitor/blob/main/Presence_monitor.gif)
+---
 
 2. **[Traffic Density Estimator](https://github.com/SanniIsimpa/Traffic-Density-Estimator):**
    * *The Problem:* Urban congestion often outpaces our ability to monitor it effectively, leaving city planners and commuters with limited real-time data.
    * *The Solution:* I engineered a lightweight computer vision pipeline that uses **YOLOv8** and **ByteTrack** to turn standard video feeds into actionable traffic intelligence. By optimizing the system for edge deployment, I created a scalable tool that classifies density and tracks vehicle flow in real-time, helping bridge the gap between raw footage and informed urban decision-making.
-   
 
 [Traffic Density Demo](https://github.com/SanniIsimpa/Traffic-Density-Estimator/blob/main/Traffic%20Density%20Estimator.gif)
 ---
