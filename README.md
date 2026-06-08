@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** dedicated to **Computer Vision** and **Deep Learning**. My passion lies in solving real-world problems by building intelligent systems that move beyond theoretical models and into practical, robust applications. 
 
-I believe that engineering is the art of balancing complexity with stability—creating AI that works not just in the lab, but in the environments where it's needed most.
+I believe that engineering is the art of balancing complexity with stability, creating AI that works not just in the lab, but in the environments where it's needed most.
 
 ### 🛠 Technical Toolkit
 
