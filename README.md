@@ -48,6 +48,13 @@ I approach every project as a full-lifecycle problem.
 [Traffic Density Demo](https://github.com/SanniIsimpa/Traffic-Density-Estimator/blob/main/Traffic%20Density%20Estimator.gif)
 ---
 
+3. **[CrackAnalyzer](https://github.com/SanniIsimpa/CrackAnalyzer):**
+   * *The Problem:* Structural defect assessment often relies on manual inspection or heavy deep learning models that require labeled training data and high-end GPUs.
+   * *The Solution:* Engineered a deterministic, classical computer vision pipeline using **OpenCV** and **ReportLab**. The system isolates surface cracks, calculates physical dimensions via metric scale calibration, classifies severity standards, and generates formal PDF audit reports—running completely offline on CPU in milliseconds.
+
+   <!--![CrackAnalyzer Demo](https://raw.githubusercontent.com/SanniIsimpa/CrackAnalyzer/main/assets/demo_preview.gif)-->
+
+---
 ### 📈 GitHub Stats
 ![SanniIsimpa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanniIsimpa&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
